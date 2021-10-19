@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamlearn1995
+- 👋 Hi, I’m Shivam Kr. Shrivastava, Business Analyst @IBM India Pvt. Ltd. 
 - 👀 I’m interested in Machine learning and AI
 - 🌱 I’m currently learning Machine leaning using R and Python
 - 💞️ I’m looking to collaborate on projects related to machine learing
