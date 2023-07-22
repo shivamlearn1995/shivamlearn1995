@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shivam Kr. Shrivastava, Business Analyst @IBM India Pvt. Ltd. 
-- 👀 I’m interested in Machine learning and AI
-- 🌱 I’m currently learning Machine leaning using R and Python
-- 💞️ I’m looking to collaborate on projects related to machine learing
+- 👋 Hi, I’m Shivam Kr. Shrivastava, Business Analyst Dhanuka Agritech Ltd.
+- 👀 I’m very keen on learning how the websites and application works.
+- 🌱 I have worked on Web development Projects, and machine learning projects.
+- 💞️ Currently, I'm looking for Data Analytics and Machine Learning End to End Projects.
 - 📫 Please, reach me at @shivamlearn1995 and sbashrivastava95@gmail.com
 
 <!---
